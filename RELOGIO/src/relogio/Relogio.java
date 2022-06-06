@@ -52,7 +52,7 @@ public class Relogio extends javax.swing.JFrame {
         });
 
         lblX.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
-        lblX.setForeground(new java.awt.Color(0, 0, 102));
+        lblX.setForeground(new java.awt.Color(0, 51, 0));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
